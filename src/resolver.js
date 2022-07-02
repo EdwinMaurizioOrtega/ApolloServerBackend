@@ -1,5 +1,4 @@
 const {getMinMaxPrice, getDiscount, isSaleProduct} = require('./helpers/index');
-const {query} = require("express");
 
 const resolvers = {
     Query: {
@@ -212,9 +211,9 @@ const resolvers = {
             }
         },
 
-        imeiCons: async (root, args, ctx, info) => {
+        imeiPAC: async (root, args, ctx, info) => {
 
-            return   datURL = fetch("http://10.1.10.201:8087/st/buscarimei/", {
+            return datURL = fetch("http://10.1.10.201:8087/st/buscarimei/", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -227,7 +226,25 @@ const resolvers = {
             }).then(response => response.json())
                 .then(data => data)
 
-        }
+        },
+
+        imeiSAP: async (root, args, ctx, info) => {
+
+            return datURL = fetch("http://192.168.0.110:8091/LIDENAR.asmx/GetImeis", {
+                method: "POST"
+            })
+                .then(response => response.json())
+                .then(imeiSAP => imeiSAP)
+
+        },
+
+        // unIMEI: async (root, args, ctx, info) => {
+        //     //console.log(args)
+        //     http.get("http://192.168.0.110:8091/LIDENAR.asmx/GetImeis").then { movies ->
+        //         return movies
+        //     }
+        // }
+
 
     }
 }

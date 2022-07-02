@@ -1,4 +1,4 @@
-const { gql } = require( 'apollo-server-express' );
+const {gql} = require('apollo-server-express');
 
 const typeDefs = gql`
     type Product {
@@ -173,11 +173,21 @@ const typeDefs = gql`
         desprod01: String
         tieneGarantia: String
     }
-   
-
+    
+    type DatoSAP {
+        CodCliente: String
+        Cliente: String
+        Item: String
+        FechaVenta: String
+        Serie: String
+       
+    }
+    
     type Query {
         hello: String
-        imeiCons(gooo: String!): Datos
+        imeiPAC(gooo: String!): Datos
+        imeiSAP: [DatoSAP]
+        unIMEI(aaaa: String): DatoSAP
         products(demo: String!, search: String, colors: [String] = [], sizes: [String] = [], brands: [String] = [], min_price: Int = null, max_price: Int = null, category: String, tag: String, ratings:[Int] = [], sortBy: String, from: Int = 0, to: Int): ShopResponse
         product(demo: String!, slug: String!, onlyData: Boolean): ProductSingleResponse
         specialProducts(demo: String!, featured: Boolean, bestSelling: Boolean, topRated: Boolean, latest: Boolean, onSale: Boolean, count: Int): SpecialProducts
