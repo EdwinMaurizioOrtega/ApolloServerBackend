@@ -304,10 +304,10 @@ const resolvers = {
                     if (numero_dias <= 365) {
                         console.log("SI TIENE GARANTIA.")
 
-                        obj.garantia = "SI TIENE GARANTIA. VENCE EL "+ fechaFinGarantia;
+                        obj.garantia = "SI TIENE GARANTÍA. VENCE EL "+ fechaFinGarantia;
                     } else {
                         console.log("NO TIENE GARANTIA.")
-                        obj.garantia = "NO TIENE GARANTIA. SU GARANTÍA VENCIÓ EL "+ fechaFinGarantia;
+                        obj.garantia = "NO TIENE GARANTÍA. SU GARANTÍA VENCIÓ EL "+ fechaFinGarantia;
                     }
 
 
@@ -325,12 +325,12 @@ const resolvers = {
                 console.log(datURL.producto.tieneGarantia)
                 let tieneGarantia = datURL.producto.tieneGarantia
 
-                if (tieneGarantia == 'true') {
+                if (tieneGarantia == true) {
                     console.log("SI TIENE GARANTIA.")
-                    obj.garantia = "SI TIENE GARANTIA. VENCE EL "+ fechaFinGarantia;
+                    obj.garantia = "SI TIENE GARANTÍA. VENCE EL "+ fechaFinGarantia;
                 } else {
                     console.log("NO TIENE GARANTIA.")
-                    obj.garantia = "NO TIENE GARANTIA. SU GARANTÍA VENCIÓ EL "+ fechaFinGarantia;
+                    obj.garantia = "NO TIENE GARANTÍA. SU GARANTÍA VENCIÓ EL "+ fechaFinGarantia;
                 }
 
             }
