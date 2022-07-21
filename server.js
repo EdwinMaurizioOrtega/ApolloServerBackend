@@ -6,7 +6,6 @@ const { ApolloServerPluginDrainHttpServer } = require('apollo-server-core');
 const typeDefs = require('./src/schema');
 const resolvers = require('./src/resolver');
 
-
 async function startApolloServer(typeDefs, resolvers) {
     const app = express();
     app.use('/uploads', express.static('src/'));

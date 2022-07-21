@@ -174,20 +174,38 @@ const typeDefs = gql`
         tieneGarantia: String
     }
     
-    type DatoSAP {
+    type sap {
         CodCliente: String
         Cliente: String
         Item: String
         FechaVenta: String
         Serie: String
-       
+    }
+    
+  
+    type User {
+        id: Int
+        email: String
+        password: String
+        name: String
+    }
+    
+     input NewUser {
+        email: String
+        password: String
+        name: String
+    }
+    
+    type Garantia {
+        garantia: String
     }
     
     type Query {
+        allUsers: [User!]!
         hello: String
-        imeiPAC(gooo: String!): Datos
-        imeiSAP: [DatoSAP]
-        unIMEI(aaaa: String): DatoSAP
+        imeiPAC(imei: String!): Datos
+        imeiSAP(imei: String!): [sap]
+        garantiaLidenar(imei: String!): Garantia
         products(demo: String!, search: String, colors: [String] = [], sizes: [String] = [], brands: [String] = [], min_price: Int = null, max_price: Int = null, category: String, tag: String, ratings:[Int] = [], sortBy: String, from: Int = 0, to: Int): ShopResponse
         product(demo: String!, slug: String!, onlyData: Boolean): ProductSingleResponse
         specialProducts(demo: String!, featured: Boolean, bestSelling: Boolean, topRated: Boolean, latest: Boolean, onSale: Boolean, count: Int): SpecialProducts
@@ -199,6 +217,12 @@ const typeDefs = gql`
         postSidebarData(demo: String!): PostSidebarResponse
         
     }
+    
+    type Mutation {
+        createUser(input: NewUser): User!
+
+    }
+    
 `
 
 module.exports = typeDefs;

@@ -1,5 +1,7 @@
 const {getMinMaxPrice, getDiscount, isSaleProduct} = require('./helpers/index');
 
+//const { prisma } = require('../src/database.js');
+
 const resolvers = {
     Query: {
         hello: async (root, args, ctx, info) => {
@@ -212,7 +214,7 @@ const resolvers = {
         },
 
         imeiPAC: async (root, args, ctx, info) => {
-
+            console.log(args)
             return datURL = fetch("http://10.1.10.201:8087/st/buscarimei/", {
                 method: "POST",
                 headers: {
@@ -220,7 +222,7 @@ const resolvers = {
                     "Accept": "application/json",
                 },
                 body: JSON.stringify({
-                    imei: `${args.gooo}`
+                    imei: `${args.imei}`
                 })
 
             }).then(response => response.json())
@@ -228,25 +230,151 @@ const resolvers = {
 
         },
 
-        imeiSAP: async (root, args, ctx, info) => {
+        //Validamos la garantia en el sistema SAP - PAC
+        garantiaLidenar: async (root, args, ctx, info) => {
 
-            return datURL = fetch("http://192.168.0.110:8091/LIDENAR.asmx/GetImeis", {
-                method: "POST"
-            })
-                .then(response => response.json())
-                .then(imeiSAP => imeiSAP)
+            //Todos los argumentos
+            console.log(args)
+            //Unicamente el IMEI
+            console.log(args.imei)
+
+            //PAC
+            console.log("Buscando en el sistema Facturacion PAC")
+            const datURL = await fetch("http://10.1.10.201:8087/st/buscarimei/", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Accept": "application/json",
+                },
+                body: JSON.stringify({
+                    imei: `${args.imei}`
+                })
+
+            }).then(response => response.json())
+
+            console.log(datURL)
+
+            //Creamos un JSON
+            var obj = new Object();
+
+            console.log(datURL.status)
+            if (datURL.status === 500) {
+
+                //SAP
+                console.log("Buscando en el sistema Facturacion SAP")
+                const response = await fetch(`http://192.168.0.110:8091/LIDENAR.asmx/GetImeis?Imeifiltro=` + args.imei, {
+                    method: "GET"
+                }).then(response => response.json())
+
+                console.log(response);
+                if (JSON.stringify(response) === '[]') {
+
+                    obj.garantia = "TELEFONO NO FUE FACTURADO EN LIDENAR.";
+
+                } else {
+
+                    //Pasamos a un String el response
+                    //var obj = JSON.parse(response);
+
+                    console.log(response[0].FechaVenta)
+                    //Asignamos a una variable
+                    let fecha_venta = response[0].FechaVenta
+
+                    console.log(fecha_venta)
+                    //Pasamos la variable para la conversion
+                    let date_1 = new Date(fecha_venta);
+                    console.log(date_1);
+                    let date_hoy = new Date();
+
+                    const days = (date_1, date_hoy) => {
+                        let difference = date_hoy.getTime() - date_1.getTime();
+                        let TotalDays = Math.ceil(difference / (1000 * 3600 * 24));
+                        return TotalDays;
+                    }
+                    let numero_dias = days(date_1, date_hoy)
+                    console.log(numero_dias + " días.");
+
+                    //Fecha finalizacion de garantia.
+                    var fecha = new Date(date_1);
+                    fecha.setDate(fecha.getDate() + 365);
+                    let fechaFinGarantia = fecha.toISOString("en-US" , {timeZone: "America/Guayaquil"});
+
+                    //Creamos un JSON
+                    var obj = new Object();
+                    if (numero_dias <= 365) {
+                        console.log("SI TIENE GARANTIA.")
+
+                        obj.garantia = "SI TIENE GARANTIA. VENCE EL "+ fechaFinGarantia;
+                    } else {
+                        console.log("NO TIENE GARANTIA.")
+                        obj.garantia = "NO TIENE GARANTIA. SU GARANTÍA VENCIÓ EL "+ fechaFinGarantia;
+                    }
+
+
+                }
+
+            } else {
+
+
+                //Fecha finalizacion de garantia.
+                var fecha = new Date(datURL.producto.fecmov05);
+                fecha.setDate(fecha.getDate() + 365);
+                let fechaFinGarantia = fecha.toISOString("en-US" , {timeZone: "America/Guayaquil"});
+                console.log("Fecha fin de garantia: "+fechaFinGarantia)
+
+                console.log(datURL.producto.tieneGarantia)
+                let tieneGarantia = datURL.producto.tieneGarantia
+
+                if (tieneGarantia == 'true') {
+                    console.log("SI TIENE GARANTIA.")
+                    obj.garantia = "SI TIENE GARANTIA. VENCE EL "+ fechaFinGarantia;
+                } else {
+                    console.log("NO TIENE GARANTIA.")
+                    obj.garantia = "NO TIENE GARANTIA. SU GARANTÍA VENCIÓ EL "+ fechaFinGarantia;
+                }
+
+            }
+
+            //PROCESAMOS LOS DATOS PARA LAS DOS SISTEMAS DE FACTURACION
+
+            //convert object to json string
+            var string = JSON.stringify(obj);
+            console.log(string);
+            var objDos = JSON.parse(string);
+            console.log(objDos);
+
+
+            //Retornamos el objeto
+            return objDos
 
         },
 
-        // unIMEI: async (root, args, ctx, info) => {
-        //     //console.log(args)
-        //     http.get("http://192.168.0.110:8091/LIDENAR.asmx/GetImeis").then { movies ->
-        //         return movies
-        //     }
-        // }
+        // allUsers: async () => {
+        //     return prisma.user.findMany();
+        // },
 
 
-    }
-}
+    },
+
+
+    // Mutation: {
+    //     createUser: async (root, args, ctx, info) => {
+    //         console.log(args)
+    //         const usuario = await prisma.user.create({
+    //             data: {
+    //                 email: args.input.email,
+    //                 name: args.input.name,
+    //                 password: args.input.password
+    //             }
+    //
+    //         })
+    //         console.log(usuario)
+    //         return usuario
+    //     }
+    //
+    // }
+
+};
+
 
 module.exports = resolvers;
