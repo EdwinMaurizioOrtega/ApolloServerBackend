@@ -1,938 +1,1556 @@
 {
     "products": [
-  
-      {
-        "id": 71,
-        "name": "Samsung A14 Light Green",
-        "slug": "samsung-a14-light-green",
+        {
+            "id": 71,
+            "name": "Samsung A14 Light Green",
+            "slug": "samsung-a14-light-green",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.113",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.113-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.113.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Samsung A14 Silver",
+            "slug": "samsung-a14-silver",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.114",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.114-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.114.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Samsung A14 Black",
+            "slug": "samsung-a14-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.115",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.115-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.115.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Samsung S23 Ultra Black",
+            "slug": "samsung-s23-ultra-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.8″, 3080 x 1440 pixels\nProcesador: Snapdragon 8 Gen 2\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: no\nCámara: Triple, 200MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.8″, 3080 x 1440 pixels\nProcesador: Snapdragon 8 Gen 2\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: no\nCámara: Triple, 200MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.116",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.116-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.116.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "XIAOMI REDMI NOTE 12 ONYX GRAY",
+            "slug": "xiaomi-redmi-note-12-onyx-gray",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.67″, 2400 x 1080 pixels\nProcesador: Snapdragon 685\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Triple, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Octa-Core\"",
+            "long_description": "\"Pantalla: 6.67″, 2400 x 1080 pixels\nProcesador: Snapdragon 685\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Triple, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Octa-Core\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.19.132",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.132-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.132.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Xiaomi",
+                    "slug": "celulares-xiaomi"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Xiaomi",
+                    "slug": "xiaomi"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "INFINIX HOT 30i MIRROR BLACK",
+            "slug": "infinix-hot-30i-mirror-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.48",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.48-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.48.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "INFINIX HOT 30i GLACIER BLUE",
+            "slug": "infinix-hot-30i-glacier-blue",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.49",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.49-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.49.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "INFINIX HOT 30i DIAMOND WHITE",
+            "slug": "infinix-hot-30i-diamond-white",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.50",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.50-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.50.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "XIAOMI 12 5G Blue",
+            "slug": "xiaomi-12-5g-blue",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.28″, 1920 x 1080 pixels\nProcesador: Snapdragon 8 Gen1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: MIUI 13\"",
+            "long_description": "\"Pantalla: 6.28″, 1920 x 1080 pixels\nProcesador: Snapdragon 8 Gen1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: MIUI 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.19.133",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.133-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.133.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Xiaomi",
+                    "slug": "celulares-xiaomi"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Xiaomi",
+                    "slug": "xiaomi"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Samsung A24 Black",
+            "slug": "samsung-a24-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.117",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.117-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.117.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Samsung A24 Silver",
+            "slug": "samsung-a24-silver",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.118",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.118-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.118.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "INFINIX NOTE 30 PRO MAGIC BLACK",
+            "slug": "infinix-note-30-pro-magic-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.51",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.51-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.51.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "INFINIX NOTE 30 PRO VARIABLE GOLD",
+            "slug": "infinix-note-30-pro-variable-gold",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.52",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.52-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.52.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "INFINIX HOT 30 PLAY MIRAGE BLACK",
+            "slug": "infinix-hot-30-play-mirage-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.53",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.53-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.53.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "INFINIX HOT 30 PLAY BLADE WHITE",
+            "slug": "infinix-hot-30-play-blade-white",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.54",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.54-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.54.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "INFINIX HOT 30 PLAY BORA PURPLE",
+            "slug": "infinix-hot-30-play-bora-purple",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.55",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.55-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.55.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "INFINIX NOTE 30 OBSIDIAN BLACK",
+            "slug": "infinix-note-30-obsidian-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.56",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.56-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.56.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "INFINIX NOTE 30 INTERSTELLAR BLUE",
+            "slug": "infinix-note-30-interstellar-blue",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "long_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.43.57",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.57-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.43.57.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Infinix",
+                    "slug": "celulares-infinix"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Infinix",
+                    "slug": "infinix"
+                }
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+        
+        {
+            "id": 89,
+            "name": "SAMSUNG A04 BLACK",
+            "slug": "samsung-a04-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.5″, 720 x 1600 pixels\nProcesador: 8 Nucleos\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: hasta 1TB\nCámara: Principal, 50MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.5″, 720 x 1600 pixels\nProcesador: 8 Nucleos\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: hasta 1TB\nCámara: Principal, 50MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.106",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.106-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.106.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "SAMSUNG A04s BLACK",
+            "slug": "samsung-a04s-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.5″, 720 x 1600 pixels\nProcesador: 8 Nucleos\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 50MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.5″, 720 x 1600 pixels\nProcesador: 8 Nucleos\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 50MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.108",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.108-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.108.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "SAMSUNG A04s GREEN",
+            "slug": "samsung-a04s-green",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.5″, 720 x 1600 pixels\nProcesador: 8 Nucleos\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 50MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.5″, 720 x 1600 pixels\nProcesador: 8 Nucleos\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 50MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.02.107",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.107-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.02.107.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "XIAOMI 12 5G PURPLE",
+            "slug": "xiaomi-12-5g-purple",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.19.129",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.129-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.129.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Xiaomi",
+                    "slug": "celulares-xiaomi"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Xiaomi",
+                    "slug": "xiaomi"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "XIAOMI REDMI 12C BLUE",
+            "slug": "xiaomi-redmi-12c-blue",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.19.127",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.127-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.127.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Xiaomi",
+                    "slug": "celulares-xiaomi"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Xiaomi",
+                    "slug": "xiaomi"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "XIAOMI REDMI 12C GRAFHITE GRAY",
+            "slug": "xiaomi-redmi-12c-grafhite-gray",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.19.131",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.131-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.131.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Xiaomi",
+                    "slug": "celulares-xiaomi"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Xiaomi",
+                    "slug": "xiaomi"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "XIAOMI REDMI A2 BLACK",
+            "slug": "xiaomi-redmi-a2-black",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 6.52″, 720 x 1600 pixels\nProcesador:  Mediatek Helio G36\nRAM: 2GB\nAlmacenamiento: 32GB\nExpansión: microSD\nCámara: Principal, 8MP + 0.08MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 6.52″, 720 x 1600 pixels\nProcesador:  Mediatek Helio G36\nRAM: 2GB\nAlmacenamiento: 32GB\nExpansión: microSD\nCámara: Principal, 8MP + 0.08MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "10.19.130",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.130-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/10.19.130.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Xiaomi",
+                    "slug": "celulares-xiaomi"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Xiaomi",
+                    "slug": "xiaomi"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "SAMSUNG GALAXY TAB A7 LITE LTE GREY",
+            "slug": "samsung-galaxy-tab-a7-lite-lte-grey",
+            "price": 2,
+            "sale_price": 1,
+            "short_description": "\"Pantalla: 8.7″, 800 x 1340 pixels\nProcesador:  Mediatek Helio P22T\nRAM: 3GB\nAlmacenamiento: 32GB\nExpansión: microSD\nCámara: Principal, 8MP + 0.08MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "long_description": "\"Pantalla: 8.7″, 800 x 1340 pixels\nProcesador:  Mediatek Helio P22T\nRAM: 3GB\nAlmacenamiento: 32GB\nExpansión: microSD\nCámara: Principal, 8MP + 0.08MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+            "stock": 50,
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 98,
+            "sku": "13.02.01",
+            "is_new": null,
+            "is_featured": null,
+            "is_top": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/13.02.01-1.jpg",
+                    "width": 800,
+                    "height": 900
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/images/demo-market1/products/13.02.01.jpg",
+                    "width": 300,
+                    "height": 338
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Celulares",
+                    "slug": "celulares"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Celulares Samsung",
+                    "slug": "celulares-samsung"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Samsung",
+                    "slug": "samsung"
+                }
+            ]
+        },
+    {
+        "id": 97,
+        "name": "SAMSUNG A34 BLACK",
+        "slug": "samsung-a34-black",
         "price": 2,
         "sale_price": 1,
-        "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "short_description": "\"Pantalla: 6.6″, 1080 x 2340 pixels\nProcesador:  Mediatek Dimensity 1080\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 48MP+8MP+5MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "long_description": "\"Pantalla: 6.6″, 1080 x 2340 pixels\nProcesador:  Mediatek Dimensity 1080\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 48MP+8MP+5MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
         "stock": 50,
         "ratings": 4,
         "reviews": 1,
         "sale_count": 98,
-        "sku": "10.02.113",
+        "sku": "10.02.109",
         "is_new": null,
         "is_featured": null,
         "is_top": null,
         "until": null,
         "variants": [],
         "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.113-1.jpg",
-            "width": 800,
-            "height": 900
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.109-1.jpg",
+                "width": 800,
+                "height": 900
+            }
         ],
         "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.113.jpg",
-            "width": 300,
-            "height": 338
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.109.jpg",
+                "width": 300,
+                "height": 338
+            }
         ],
         "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
+            {
+                "name": "Celulares",
+                "slug": "celulares"
+            }
         ],
         "tags": [
-          {
-            "name": "Celulares Samsung",
-            "slug": "celulares-samsung"
-          }
+            {
+                "name": "Celulares Samsung",
+                "slug": "celulares-samsung"
+            }
         ],
         "brands": [
-          {
-            "name": "Samsung",
-            "slug": "samsung"
-          }
+            {
+                "name": "Samsung",
+                "slug": "samsung"
+            }
         ]
-      },
-      {
-        "id": 72,
-        "name": "Samsung A14 Silver",
-        "slug": "samsung-a14-silver",
+    },
+    {
+        "id": 98,
+        "name": "SAMSUNG A34 SILVER",
+        "slug": "samsung-a34-silver",
         "price": 2,
         "sale_price": 1,
-        "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "short_description": "\"Pantalla: 6.6″, 1080 x 2340 pixels\nProcesador:  Mediatek Dimensity 1080\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 48MP+8MP+5MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "long_description": "\"Pantalla: 6.6″, 1080 x 2340 pixels\nProcesador:  Mediatek Dimensity 1080\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 48MP+8MP+5MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
         "stock": 50,
         "ratings": 4,
         "reviews": 1,
         "sale_count": 98,
-        "sku": "10.02.114",
+        "sku": "10.02.110",
         "is_new": null,
         "is_featured": null,
         "is_top": null,
         "until": null,
         "variants": [],
         "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.114-1.jpg",
-            "width": 800,
-            "height": 900
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.110-1.jpg",
+                "width": 800,
+                "height": 900
+            }
         ],
         "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.114.jpg",
-            "width": 300,
-            "height": 338
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.110.jpg",
+                "width": 300,
+                "height": 338
+            }
         ],
         "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
+            {
+                "name": "Celulares",
+                "slug": "celulares"
+            }
         ],
         "tags": [
-          {
-            "name": "Celulares Samsung",
-            "slug": "celulares-samsung"
-          }
+            {
+                "name": "Celulares Samsung",
+                "slug": "celulares-samsung"
+            }
         ],
         "brands": [
-          {
-            "name": "Samsung",
-            "slug": "samsung"
-          }
+            {
+                "name": "Samsung",
+                "slug": "samsung"
+            }
         ]
-      },
-  
-      {
-        "id": 73,
-        "name": "Samsung A14 Black",
-        "slug": "samsung-a14-black",
+    },
+    {
+        "id": 99,
+        "name": "SAMSUNG A54 LIGHT GREEN",
+        "slug": "samsung-a54-light-green",
         "price": 2,
         "sale_price": 1,
-        "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador:  Exynos 1380\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Principal, 50MP+12MP+5MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador:  Exynos 1380\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Principal, 50MP+12MP+5MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
         "stock": 50,
         "ratings": 4,
         "reviews": 1,
         "sale_count": 98,
-        "sku": "10.02.115",
+        "sku": "10.02.111",
         "is_new": null,
         "is_featured": null,
         "is_top": null,
         "until": null,
         "variants": [],
         "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.115-1.jpg",
-            "width": 800,
-            "height": 900
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.111-1.jpg",
+                "width": 800,
+                "height": 900
+            }
         ],
         "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.115.jpg",
-            "width": 300,
-            "height": 338
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.111.jpg",
+                "width": 300,
+                "height": 338
+            }
         ],
         "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
+            {
+                "name": "Celulares",
+                "slug": "celulares"
+            }
         ],
         "tags": [
-          {
-            "name": "Celulares Samsung",
-            "slug": "celulares-samsung"
-          }
+            {
+                "name": "Celulares Samsung",
+                "slug": "celulares-samsung"
+            }
         ],
         "brands": [
-          {
-            "name": "Samsung",
-            "slug": "samsung"
-          }
+            {
+                "name": "Samsung",
+                "slug": "samsung"
+            }
         ]
-      },
-      {
-        "id": 74,
-        "name": "Samsung S23 Ultra Black",
-        "slug": "samsung-s23-ultra-black",
+    },
+    {
+        "id": 100,
+        "name": "SAMSUNG A54 BLACK",
+        "slug": "samsung-a54-black",
         "price": 2,
         "sale_price": 1,
-        "short_description": "\"Pantalla: 6.8″, 3080 x 1440 pixels\nProcesador: Snapdragon 8 Gen 2\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: no\nCámara: Triple, 200MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.8″, 3080 x 1440 pixels\nProcesador: Snapdragon 8 Gen 2\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: no\nCámara: Triple, 200MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador:  Exynos 1380\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Principal, 50MP+12MP+5MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+        "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador:  Exynos 1380\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Principal, 50MP+12MP+5MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
         "stock": 50,
         "ratings": 4,
         "reviews": 1,
         "sale_count": 98,
-        "sku": "10.02.116",
+        "sku": "10.02.112",
         "is_new": null,
         "is_featured": null,
         "is_top": null,
         "until": null,
         "variants": [],
         "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.116-1.jpg",
-            "width": 800,
-            "height": 900
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.112-1.jpg",
+                "width": 800,
+                "height": 900
+            }
         ],
         "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.116.jpg",
-            "width": 300,
-            "height": 338
-          }
+            {
+                "url": "/uploads/images/demo-market1/products/10.02.112.jpg",
+                "width": 300,
+                "height": 338
+            }
         ],
         "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
+            {
+                "name": "Celulares",
+                "slug": "celulares"
+            }
         ],
         "tags": [
-          {
-            "name": "Celulares Samsung",
-            "slug": "celulares-samsung"
-          }
+            {
+                "name": "Celulares Samsung",
+                "slug": "celulares-samsung"
+            }
         ],
         "brands": [
-          {
-            "name": "Samsung",
-            "slug": "samsung"
-          }
+            {
+                "name": "Samsung",
+                "slug": "samsung"
+            }
         ]
-      },
-      {
-        "id": 75,
-        "name": "XIAOMI REDMI NOTE 12 ONYX GRAY",
-        "slug": "xiaomi-redmi-note-12-onyx-gray",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.67″, 2400 x 1080 pixels\nProcesador: Snapdragon 685\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Triple, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Octa-Core\"",
-        "long_description": "\"Pantalla: 6.67″, 2400 x 1080 pixels\nProcesador: Snapdragon 685\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Triple, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Octa-Core\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.19.132",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.19.132-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.19.132.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
+    }
+
+    ],
+    "productCategories": [
+        {
             "name": "Celulares",
             "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Xiaomi",
-            "slug": "celulares-xiaomi"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Xiaomi",
-            "slug": "xiaomi"
-          }
-        ]
-      },
-      {
-        "id": 76,
-        "name": "INFINIX HOT 30i MIRROR BLACK",
-        "slug": "infinix-hot-30i-mirror-black",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-        "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.48",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.48-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.48.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 77,
-        "name": "INFINIX HOT 30i GLACIER BLUE",
-        "slug": "infinix-hot-30i-glacier-blue",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-        "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.49",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.49-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.49.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 78,
-        "name": "INFINIX HOT 30i DIAMOND WHITE",
-        "slug": "infinix-hot-30i-diamond-white",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-        "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.50",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.50-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.50.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 79,
-        "name": "XIAOMI 12 5G Blue",
-        "slug": "xiaomi-12-5g-blue",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.28″, 1920 x 1080 pixels\nProcesador: Snapdragon 8 Gen1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: MIUI 13\"",
-        "long_description": "\"Pantalla: 6.28″, 1920 x 1080 pixels\nProcesador: Snapdragon 8 Gen1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: MIUI 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.19.133",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.19.133-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.19.133.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Xiaomi",
-            "slug": "celulares-xiaomi"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Xiaomi",
-            "slug": "xiaomi"
-          }
-        ]
-      },
-      {
-        "id": 80,
-        "name": "Samsung A24 Black",
-        "slug": "samsung-a24-black",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.02.117",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.117-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.117.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Samsung",
-            "slug": "celulares-samsung"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Samsung",
-            "slug": "samsung"
-          }
-        ]
-      },
-      {
-        "id": 81,
-        "name": "Samsung A24 Silver",
-        "slug": "samsung-a24-silver",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.02.118",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.118-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.02.118.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Samsung",
-            "slug": "celulares-samsung"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Samsung",
-            "slug": "samsung"
-          }
-        ]
-      },
-      {
-        "id": 82,
-        "name": "INFINIX NOTE 30 PRO MAGIC BLACK",
-        "slug": "infinix-note-30-pro-magic-black",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.51",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.51-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.51.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 83,
-        "name": "INFINIX NOTE 30 PRO VARIABLE GOLD",
-        "slug": "infinix-note-30-pro-variable-gold",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.52",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.52-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.52.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 84,
-        "name": "INFINIX HOT 30 PLAY MIRAGE BLACK",
-        "slug": "infinix-hot-30-play-mirage-black",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.53",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.53-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.53.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 85,
-        "name": "INFINIX HOT 30 PLAY BLADE WHITE",
-        "slug": "infinix-hot-30-play-blade-white",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.54",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.54-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.54.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 86,
-        "name": "INFINIX HOT 30 PLAY BORA PURPLE",
-        "slug": "infinix-hot-30-play-bora-purple",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.55",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.55-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.55.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 87,
-        "name": "INFINIX NOTE 30 OBSIDIAN BLACK",
-        "slug": "infinix-note-30-obsidian-black",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.56",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.56-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.56.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
-          }
-        ]
-      },
-      {
-        "id": 88,
-        "name": "INFINIX NOTE 30 INTERSTELLAR BLUE",
-        "slug": "infinix-note-30-interstellar-blue",
-        "price": 2,
-        "sale_price": 1,
-        "short_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "long_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
-        "stock": 50,
-        "ratings": 4,
-        "reviews": 1,
-        "sale_count": 98,
-        "sku": "10.43.57",
-        "is_new": null,
-        "is_featured": null,
-        "is_top": null,
-        "until": null,
-        "variants": [],
-        "large_pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.57-1.jpg",
-            "width": 800,
-            "height": 900
-          }
-        ],
-        "pictures": [
-          {
-            "url": "/uploads/images/demo-market1/products/10.43.57.jpg",
-            "width": 300,
-            "height": 338
-          }
-        ],
-        "categories": [
-          {
-            "name": "Celulares",
-            "slug": "celulares"
-          }
-        ],
-        "tags": [
-          {
-            "name": "Celulares Infinix",
-            "slug": "celulares-infinix"
-          }
-        ],
-        "brands": [
-          {
-            "name": "Infinix",
-            "slug": "infinix"
+        },
+        {
+            "name": "Accesorios",
+            "slug": "accesorios"
         }
     ]
-  }
-
-],
-
-"productCategories": [
-
-  {
-    "name": "Celulares",
-    "slug": "celulares"
-  },
-  {
-    "name": "Accesorios",
-    "slug": "accesorios"
-  }
-]
-
 }
