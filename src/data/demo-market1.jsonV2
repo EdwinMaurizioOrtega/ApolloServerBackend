@@ -1,0 +1,4672 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S20 FE Azul",
+      "slug": "samsung-s20-fe-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.5″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 865\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 12MP+8MP+12MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+      "long_description": "\"Pantalla: 6.5″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 865\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 12MP+8MP+12MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.02.73",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.73.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.73(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung A33 Negro",
+      "slug": "samsung-a33-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"* Pantalla: 6.4″, 1080 x 2400 pixels\n* Procesador: Octa-core 2.4GHz\n* RAM: 6GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 48MP+8MP +5MP+2MP\n* Frontal: 13MP gran angular\n* Batería: 5000 mAh, carga rapida 25W\n* OS: Android 12\".",
+      "long_description": "\"* Pantalla: 6.4″, 1080 x 2400 pixels\n* Procesador: Octa-core 2.4GHz\n* RAM: 6GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 48MP+8MP +5MP+2MP\n* Frontal: 13MP gran angular\n* Batería: 5000 mAh, carga rapida 25W\n* OS: Android 12\".",
+      "stock": 63,
+      "ratings": 5,
+      "reviews": 1,
+      "sale_count": 30,
+      "sku": "10.02.75",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.75.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.75(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+        "name": "Celulares Samsung",
+        "slug": "celulares-samsung"
+      }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Samsung A53 Negro",
+      "slug": "samsung-a53-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"* Pantalla: 6.5″, 1080 x 2400 pixels\n* Procesador: Octa-core 2.4GHz\n* RAM: 6GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 64MP+12MP +5MP+5MP\n* Frontal: 32MP gran angular\n* Batería: 5000 mAh, carga rapida 25W\n* OS: Android 12\"",
+      "long_description": "\"* Pantalla: 6.5″, 1080 x 2400 pixels\n* Procesador: Octa-core 2.4GHz\n* RAM: 6GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 64MP+12MP +5MP+5MP\n* Frontal: 32MP gran angular\n* Batería: 5000 mAh, carga rapida 25W\n* OS: Android 12\"",
+      "stock": 52,
+      "ratings": 5,
+      "reviews": 1,
+      "sale_count": 30,
+      "sku": "10.02.62",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": true,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.62.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.62(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Samsung M32 Negro",
+      "slug": "samsung-m32-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"* Pantalla: 6.4″, 1080 x 2400 pixels\n* Procesador: Mediatek Helio G80 2GHz\n* RAM: 6GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 64MP+8MP +2MP+2MP\n* Frontal: 20MP gran angular\n* Batería: 6000 mAh, carga rapida 25W\n* OS: Android 11\".",
+      "long_description": "\"* Pantalla: 6.4″, 1080 x 2400 pixels\n* Procesador: Mediatek Helio G80 2GHz\n* RAM: 6GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 64MP+8MP +2MP+2MP\n* Frontal: 20MP gran angular\n* Batería: 6000 mAh, carga rapida 25W\n* OS: Android 11\".",
+      "stock": 92,
+      "ratings": 0,
+      "reviews": 1,
+      "sale_count": 30,
+      "sku": "10.02.68",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": true,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.68.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.68(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Samsung M52 Negro",
+      "slug": "samsung-m52-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.7″, 1080 x 2400 pixels\nProcesador: Snapdragon 778G 2.4GHz\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 64MP+12MP+5MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.7″, 1080 x 2400 pixels\nProcesador: Snapdragon 778G 2.4GHz\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 64MP+12MP+5MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 99,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 30,
+      "sku": "10.02.50",
+      "is_new": null,
+      "is_featured": true,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.50.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.50(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Samsung M33 Negro",
+      "slug": "samsung-m33-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 1080 x 2408 pixels\nProcesador: Octa-core 2.4GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nFrontal: 8MP gran angular\nBatería: 6000 mAh\nOS: Android 12\".",
+      "long_description": "\"Pantalla: 6.6″, 1080 x 2408 pixels\nProcesador: Octa-core 2.4GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nFrontal: 8MP gran angular\nBatería: 6000 mAh\nOS: Android 12\".",
+      "stock": 90,
+      "ratings": 0,
+      "reviews": 1,
+      "sale_count": 30,
+      "sku": "10.02.80",
+      "is_new": null,
+      "is_featured": true,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.80.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.80(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Samsung A13 Negro",
+      "slug": "samsung-a13-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"* Pantalla: 6.6″, 1080 x 2408 pixels\n* Procesador: Octa-Core 2,2 GHz \n* RAM: 4GB\n* Almacenamiento: 64GB\n* Expansión: microSD\n* Cámara Trasera: Cuádruple, 50 MP + 5 MP + 2 MP + 2 MP\n* Cámara Frontal: 8 MP\n* Batería: 5000 mAh, con carga rápida de 25W\n* OS: Android 12\"",
+      "long_description": "\"* Pantalla: 6.6″, 1080 x 2408 pixels\n* Procesador: Octa-Core 2,2 GHz \n* RAM: 4GB\n* Almacenamiento: 64GB\n* Expansión: microSD\n* Cámara Trasera: Cuádruple, 50 MP + 5 MP + 2 MP + 2 MP\n* Cámara Frontal: 8 MP\n* Batería: 5000 mAh, con carga rápida de 25W\n* OS: Android 12\"",
+      "stock": 80,
+      "ratings": 5,
+      "reviews": 1,
+      "sale_count": 94,
+      "sku": "10.02.77",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.77(1).jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.77.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Samsung A23 Negro",
+      "slug": "samsung-a23-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"* Pantalla: 6.6″, 1080 x 2408 pixels\n* Procesador: Snapdragon 680 2.4GHz\n* RAM: 4GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 50MP+5MP +2MP+2MP\n* Frontal: 8MP gran angular\n* Batería: 5000 mAh, carga rapida 25W\n* OS: Android 12\".",
+      "long_description": "\"* Pantalla: 6.6″, 1080 x 2408 pixels\n* Procesador: Snapdragon 680 2.4GHz\n* RAM: 4GB\n* Almacenamiento: 128GB\n* Cámara: Cuádruple, 50MP+5MP +2MP+2MP\n* Frontal: 8MP gran angular\n* Batería: 5000 mAh, carga rapida 25W\n* OS: Android 12\".",
+      "stock": 184,
+      "ratings": 5,
+      "reviews": 1,
+      "sale_count": 92,
+      "sku": "10.02.67",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.67.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.67(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Samsung A03 Core Negro",
+      "slug": "samsung-a03-core-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"* Pantalla: 6.5″, 720 x 1600 pixels\n* Procesador: Unisoc SC9863A 1.6GHz\n* RAM: 2GB\n* Almacenamiento: 32GB\n* Cámara: 8 MP\n* Camara Frontal: 5MP\n* Batería: 5000 mAh\n* OS: Android 11 (Go edition)\"",
+      "long_description": "\"* Pantalla: 6.5″, 720 x 1600 pixels\n* Procesador: Unisoc SC9863A 1.6GHz\n* RAM: 2GB\n* Almacenamiento: 32GB\n* Cámara: 8 MP\n* Camara Frontal: 5MP\n* Batería: 5000 mAh\n* OS: Android 11 (Go edition)\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.02.45",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.45.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.45(1).jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+
+
+    {
+      "id": 10,
+      "name": "Xiaomi Mi11T Blanco",
+      "slug": "xiaomi-mi11T-blanco",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 1200 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara: Triple, 108MP+8MP+5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 1200 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara: Triple, 108MP+8MP+5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.69",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.69-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.69--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi Mi11T Blanco",
+      "slug": "xiaomi-mi11T-blanco",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 1200 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara: Triple, 108MP+8MP+5MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 1200 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara: Triple, 108MP+8MP+5MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.69",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.69-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.69--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi Mi11T Celeste",
+      "slug": "xiaomi-mi11T-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 1200 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara: Triple, 108MP+8MP+5MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 1200 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara: Triple, 108MP+8MP+5MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.68",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.68-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.68--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Redmi 10 Blanco",
+      "slug": "xiaomi-redmi-10-blanco",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.5″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G88 2GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.5″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G88 2GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.76",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.76-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.76--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Redmi 10 Celeste",
+      "slug": "xiaomi-redmi-10-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.5″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G88 2GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.5″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G88 2GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.77",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.77-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.77--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Redmi 10C Negro",
+      "slug": "xiaomi-redmi-10c-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6,71″, 1650 x 720 pixels\nProcesador: Snapdragon 680\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Dual, 50MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6,71″, 1650 x 720 pixels\nProcesador: Snapdragon 680\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Dual, 50MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.84",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.84-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.84--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Xiaomi Redmi 10C Azul",
+      "slug": "xiaomi-redmi-10c-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6,71″, 1650 x 720 pixels\nProcesador: Snapdragon 680\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Dual, 50MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6,71″, 1650 x 720 pixels\nProcesador: Snapdragon 680\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Dual, 50MP+2MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.84",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.89-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.89--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Xiaomi Redmi Note 11 Negro",
+      "slug": "xiaomi-redmi-note-11-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.74",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.74-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.74--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Xiaomi Redmi 10C Celeste",
+      "slug": "xiaomi-redmi-10c-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.73",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.73-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.73--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Xiaomi Redmi 10C Azul",
+      "slug": "xiaomi-redmi-10c-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.81",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.81-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.81--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Xiaomi Redmi 10C Celeste",
+      "slug": "xiaomi-redmi-10c-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.82",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.82-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.82--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Xiaomi Redmi 10C Azul",
+      "slug": "xiaomi-redmi-10c-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.85",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.85-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.85--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Xiaomi Redmi 10C Negro",
+      "slug": "xiaomi-redmi-10c-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Snapdragon 680 2.4GHz\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 50MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.70",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.70-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.70--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Xiaomi Redmi Note 11 Pro Negro",
+      "slug": "xiaomi-redmi-note-11-pro-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.86",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.86-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.86--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Xiaomi Redmi Note 11 Pro Celeste",
+      "slug": "xiaomi-redmi-note-11-pro-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.87",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.87-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.87--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Xiaomi Redmi Note 11 Pro Blanco",
+      "slug": "xiaomi-redmi-note-11-pro-blanco",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.90",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.90-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.90--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Xiaomi Redmi Note 11s Azul",
+      "slug": "xiaomi-redmi-note-11s-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.95",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.95-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.95--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Xiaomi Redmi Note 11s Negro",
+      "slug": "xiaomi-redmi-note-11s-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Cuádruple, 108MP+8MP +2MP+2MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.83",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.83-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.83--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Xiaomi Poco M4 Pro Negro",
+      "slug": "xiaomi-poco-m4-pro-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.6″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 810 2.4GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Dual, 50MP+8MP\nFrontal: 16MP\nBatería: 5000 mAh, carga rapida 33W\nOS: Android 11",
+      "long_description": "Pantalla: 6.6″, 1080 x 2400 pixels\nProcesador: Mediatek Dimensity 810 2.4GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Dual, 50MP+8MP\nFrontal: 16MP\nBatería: 5000 mAh, carga rapida 33W\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.92",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.92-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.92--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Xiaomi X4 Pro Negro",
+      "slug": "xiaomi-x4-pro-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "El Xiaomi Poco X4 Pro 5G es el nuevo smartphone de la serie X de Poco. Con una pantalla AMOLED de 6.67 pulgadas a resolución FHD+ y tasa de refresco de 120Hz, el Poco X4 Pro 5G está potenciado por un procesador Snapdragon 695 con 8GB de RAM y 256GB de almacenamiento. El Poco X4 Pro tiene una cámara triple en su posterior compuesta de lentes de 108MP, 8MP y 2MP, con una cámara selfie de 16MP. Completando las características del Poco X4 Pro 5G encontramos una batería de 5000 mAh de carga rápida de 67W, lector de huellas lateral, parlantes stereo, y resistencia al agua IP53, corriendo Android 11.\n\n",
+      "long_description": "El Xiaomi Poco X4 Pro 5G es el nuevo smartphone de la serie X de Poco. Con una pantalla AMOLED de 6.67 pulgadas a resolución FHD+ y tasa de refresco de 120Hz, el Poco X4 Pro 5G está potenciado por un procesador Snapdragon 695 con 8GB de RAM y 256GB de almacenamiento. El Poco X4 Pro tiene una cámara triple en su posterior compuesta de lentes de 108MP, 8MP y 2MP, con una cámara selfie de 16MP. Completando las características del Poco X4 Pro 5G encontramos una batería de 5000 mAh de carga rápida de 67W, lector de huellas lateral, parlantes stereo, y resistencia al agua IP53, corriendo Android 11.\n\n",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.94",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.94-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.94--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Xiaomi Redmi 10A Negro",
+      "slug": "xiaomi-redmi-10a-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara: 13 MP\nFrontal: 5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara: 13 MP\nFrontal: 5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.97",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.97-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.97--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Xiaomi Redmi 10A Gris",
+      "slug": "xiaomi-redmi-10a-gris",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara: 13 MP\nFrontal: 5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara: 13 MP\nFrontal: 5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.98",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.98-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.98--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Xiaomi Redmi 10A Azul",
+      "slug": "xiaomi-redmi-10a-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara: 13 MP\nFrontal: 5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "long_description": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara: 13 MP\nFrontal: 5MP\nBatería: 5000 mAh\nOS: Android 11",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.19.96",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.96-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.96--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+
+    {
+      "id": 30,
+      "name": "Blu C5 2019 Gris",
+      "slug": "blu-c5-2019-gris",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "long_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.05",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.05-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.05--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Blu C5 2019 Rojo",
+      "slug": "blu-c5-2019-rojo",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "long_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.80",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.80-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.80--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Blu C5 2019 Azul",
+      "slug": "blu-c5-2019-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "long_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.59",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.59-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.59--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Blu C5 2019 Pastel",
+      "slug": "blu-c5-2019-pastel",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "long_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.63",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.63-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.63--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Blu C5 2019 Negro",
+      "slug": "blu-c5-2019-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "long_description": "SIM: Dual SIM (Nano-SIM).\nPantalla: 5 pulgadas.\nCámara principal: 5 megapíxeles\nFlash LED.\nCámara Selfie: 5 megapíxeles.\nMemoria Interna: 16GB.\nMemoria RAM: 1GB.\nProcesador: MediaTek cuatro núcleos 1.3GHz.\nSoftware: Android 8.1 Oreo (Go Edition).\nBatería: 2000 mAh.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.04",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.04-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.04--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Blu C5L MAX Azul",
+      "slug": "blu-c5l-max-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu C5L es un smartphone de 2021. Su tamaño es 159.5 x 76.5 x 10.5 mm y su peso es 174 pulgadas. Tiene ina pantalla IPS LCD de 5.7″. La resolución es de 480 x 960 y una densidad de los píxeles de 188 ppi . La cámara frontera singular de 2 MP. La cámara trasera singular de 5 MP. Su procesador es Quad-core 1.4 GHz Cortex-A53 y memoria 16GB 1GB RAM, 32GB 2GB RAM. Su batería es de 2000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu C5L es un smartphone de 2021. Su tamaño es 159.5 x 76.5 x 10.5 mm y su peso es 174 pulgadas. Tiene ina pantalla IPS LCD de 5.7″. La resolución es de 480 x 960 y una densidad de los píxeles de 188 ppi . La cámara frontera singular de 2 MP. La cámara trasera singular de 5 MP. Su procesador es Quad-core 1.4 GHz Cortex-A53 y memoria 16GB 1GB RAM, 32GB 2GB RAM. Su batería es de 2000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.95",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.95-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.95--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Blu C5L MAX Negro",
+      "slug": "blu-c5l-max-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu C5L es un smartphone de 2021. Su tamaño es 159.5 x 76.5 x 10.5 mm y su peso es 174 pulgadas. Tiene ina pantalla IPS LCD de 5.7″. La resolución es de 480 x 960 y una densidad de los píxeles de 188 ppi . La cámara frontera singular de 2 MP. La cámara trasera singular de 5 MP. Su procesador es Quad-core 1.4 GHz Cortex-A53 y memoria 16GB 1GB RAM, 32GB 2GB RAM. Su batería es de 2000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu C5L es un smartphone de 2021. Su tamaño es 159.5 x 76.5 x 10.5 mm y su peso es 174 pulgadas. Tiene ina pantalla IPS LCD de 5.7″. La resolución es de 480 x 960 y una densidad de los píxeles de 188 ppi . La cámara frontera singular de 2 MP. La cámara trasera singular de 5 MP. Su procesador es Quad-core 1.4 GHz Cortex-A53 y memoria 16GB 1GB RAM, 32GB 2GB RAM. Su batería es de 2000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.94",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.94-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.94--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Blu G51 Plus Rojo",
+      "slug": "blu-g51-plus-rojo",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.55",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.55-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.55--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Blu G51 Plus Verde",
+      "slug": "blu-g51-plus-verde",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.54",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.54-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.54--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Blu G51 Plus Azul",
+      "slug": "blu-g51-plus-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.53",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.53-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.53--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Blu G51 Plus Negro",
+      "slug": "blu-g51-plus-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G51 Plus es un smartphone de 2021. Su tamaño es 165 x 76.5 x 9.3 mm y su peso es 200 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.6 GHz Cortex-A55 y memoria 64GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.52",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.52-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.52--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Blu G71+ Azul",
+      "slug": "blu-g71+-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.90",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.90-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.90--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Blu G71+ Blanco",
+      "slug": "blu-g71+-blanco",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.100",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.100-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.100--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Blu G71+ Verde",
+      "slug": "blu-g71+-verde",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.91",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.91-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.91--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Blu G71+ Dorado",
+      "slug": "blu-g71+-dorado",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G71+ es un smartphone de 2022. Su tamaño es 160.2 x 76.7 x 9 mm y su peso es 175 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 13 MP. La cámara trasera triple de 13 MP. Su procesador es Octa-core 1.8 GHz Cortex-A75 y memoria 64GB 4GB RAM, 128GB 4GB RAM. Su batería es de 4900 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.92",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.92-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.92--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Blu G71L Azul",
+      "slug": "blu-g71l-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"MARCA. BLU.\nMODELO. G71L G0710WW.\nCOLOR. Azul.\nMEMORIA INTERNA. 128GB.\nMEMORIA RAM. 4GB.\nPROCESADOR CPU. ARM-Cortex A55, Octa Core de 1.6GHz.\nSISTEMA OPERATIVO. Android 11.\nPANTALLA. Infinity Display de 6.5\"\" Full HD+\"",
+      "long_description": "\"MARCA. BLU.\nMODELO. G71L G0710WW.\nCOLOR. Azul.\nMEMORIA INTERNA. 128GB.\nMEMORIA RAM. 4GB.\nPROCESADOR CPU. ARM-Cortex A55, Octa Core de 1.6GHz.\nSISTEMA OPERATIVO. Android 11.\nPANTALLA. Infinity Display de 6.5\"\" Full HD+\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.101",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.101-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.101--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Blu G71L Verde",
+      "slug": "blu-g71l-verde",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"MARCA. BLU.\nMODELO. G71L G0710WW.\nCOLOR. Azul.\nMEMORIA INTERNA. 128GB.\nMEMORIA RAM. 4GB.\nPROCESADOR CPU. ARM-Cortex A55, Octa Core de 1.6GHz.\nSISTEMA OPERATIVO. Android 11.\nPANTALLA. Infinity Display de 6.5\"\" Full HD+\"",
+      "long_description": "\"MARCA. BLU.\nMODELO. G71L G0710WW.\nCOLOR. Azul.\nMEMORIA INTERNA. 128GB.\nMEMORIA RAM. 4GB.\nPROCESADOR CPU. ARM-Cortex A55, Octa Core de 1.6GHz.\nSISTEMA OPERATIVO. Android 11.\nPANTALLA. Infinity Display de 6.5\"\" Full HD+\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.102",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.102-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.102--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Blu G91 Max Negro",
+      "slug": "blu-g91-max-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "BLU G91 Max es un smartphone de 2022. Su tamaño es 168.6 x 77 x 8.9 mm y su peso es 213 pulgadas. Tiene ina pantalla IPS LCD de 6.8\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 108 MP. Su procesador es Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 8GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "long_description": "BLU G91 Max es un smartphone de 2022. Su tamaño es 168.6 x 77 x 8.9 mm y su peso es 213 pulgadas. Tiene ina pantalla IPS LCD de 6.8\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 108 MP. Su procesador es Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 8GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.107",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.107-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.107--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Blu G91 Max Azul",
+      "slug": "blu-g91-max-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "BLU G91 Max es un smartphone de 2022. Su tamaño es 168.6 x 77 x 8.9 mm y su peso es 213 pulgadas. Tiene ina pantalla IPS LCD de 6.8\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 108 MP. Su procesador es Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 8GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "long_description": "BLU G91 Max es un smartphone de 2022. Su tamaño es 168.6 x 77 x 8.9 mm y su peso es 213 pulgadas. Tiene ina pantalla IPS LCD de 6.8\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 108 MP. Su procesador es Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 8GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.98",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.98-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.98--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Blu G91 Pro Celeste",
+      "slug": "blu-g91-pro-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Blu G91 Pro es un smartphone de 2021. Su tamaño es 165.2 x 76.9 x 8.9 mm y su peso es 201 pulgadas. Tiene ina pantalla IPS LCD de 6.7\". La resolución es de 1080 x 2400 y una densidad de los píxeles de 393 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 6GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "long_description": "Blu G91 Pro es un smartphone de 2021. Su tamaño es 165.2 x 76.9 x 8.9 mm y su peso es 201 pulgadas. Tiene ina pantalla IPS LCD de 6.7\". La resolución es de 1080 x 2400 y una densidad de los píxeles de 393 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 6GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.106",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.106-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.106--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Blu G91 Pro Negro",
+      "slug": "blu-g91-pro-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "Blu G91 Pro es un smartphone de 2021. Su tamaño es 165.2 x 76.9 x 8.9 mm y su peso es 201 pulgadas. Tiene ina pantalla IPS LCD de 6.7\". La resolución es de 1080 x 2400 y una densidad de los píxeles de 393 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 6GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "long_description": "Blu G91 Pro es un smartphone de 2021. Su tamaño es 165.2 x 76.9 x 8.9 mm y su peso es 201 pulgadas. Tiene ina pantalla IPS LCD de 6.7\". La resolución es de 1080 x 2400 y una densidad de los píxeles de 393 ppi . La cámara frontera singular de 16 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) y memoria 128GB 6GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.105",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.105-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.105--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Blu G91S Negro",
+      "slug": "blu-g91s-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"BLU G91s es un smartphone de 2021. Su tamaño es 168 x 76.5 x 8.9 mm y su peso es 202 pulgadas. Tiene ina pantalla IPS LCD de 6.8\"\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 13 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) y memoria 128GB 4GB RAM. Su batería es de 6000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"BLU G91s es un smartphone de 2021. Su tamaño es 168 x 76.5 x 8.9 mm y su peso es 202 pulgadas. Tiene ina pantalla IPS LCD de 6.8\"\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 13 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) y memoria 128GB 4GB RAM. Su batería es de 6000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.58",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.58-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.58--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Blu G91S Azul",
+      "slug": "blu-g91s-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"BLU G91s es un smartphone de 2021. Su tamaño es 168 x 76.5 x 8.9 mm y su peso es 202 pulgadas. Tiene ina pantalla IPS LCD de 6.8\"\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 13 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) y memoria 128GB 4GB RAM. Su batería es de 6000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"BLU G91s es un smartphone de 2021. Su tamaño es 168 x 76.5 x 8.9 mm y su peso es 202 pulgadas. Tiene ina pantalla IPS LCD de 6.8\"\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 13 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) y memoria 128GB 4GB RAM. Su batería es de 6000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.81",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.81-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.81--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Blu G91S Celeste",
+      "slug": "blu-g91s-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"BLU G91s es un smartphone de 2021. Su tamaño es 168 x 76.5 x 8.9 mm y su peso es 202 pulgadas. Tiene ina pantalla IPS LCD de 6.8\"\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 13 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) y memoria 128GB 4GB RAM. Su batería es de 6000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"BLU G91s es un smartphone de 2021. Su tamaño es 168 x 76.5 x 8.9 mm y su peso es 202 pulgadas. Tiene ina pantalla IPS LCD de 6.8\"\". La resolución es de 1080 x 2460 y una densidad de los píxeles de 0 ppi . La cámara frontera singular de 13 MP. La cámara trasera cuádriple de 48 MP. Su procesador es Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) y memoria 128GB 4GB RAM. Su batería es de 6000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.103",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.103-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.103--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Blu X10 2022 Rojo",
+      "slug": "blu-x10-2022-rojo",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "long_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.97",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.97-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.97--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Blu X10 2022 Azul",
+      "slug": "blu-x10-2022-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "long_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.83",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.83-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.83--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Blu X10 2022 Negro",
+      "slug": "blu-x10-2022-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "long_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.82",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.82-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.82--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Blu X10 2022 Verde",
+      "slug": "blu-x10-2022-verde",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "long_description": "\"“BLU Studio X10 2022 es un dispositivo con 145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in), un peso de 175 gramos, un tamaño de pantalla de 5.0 pulgadas, 68.9 cm2 (~64.2% ratio pantalla-cuerpo) y una resolución de pantalla de 480 x 854 pixels, 16:9 ratio (~196 ppi densidad). Dispone de un procesador Quad-core 1.3 GHz Cortex-A7, una gráfica (GPU) Mali-400MP2, una memoria RAM de 1 GB y una memoria interna de 32GB 1GB RAM ampliable mediante tarjeta de memoria microSDXC. El BLU Studio X10 2022 viene de fábrica con el sistema operativo Android 11 (Go edition).”\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.82",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.82-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.82--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Blu X12 Rojo",
+      "slug": "blu-x12-rojo",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.0″, 480 x 960 pixels\nProcesador: Octa Core 1.8 GHz\nOS: Android 10\nRAM: 1GB\nAlmacenamiento: 32GB\nCámara: Cuádruple, 8MP\nCámara Frontal: 8Mp\nBatería: 3000 mAh\"",
+      "long_description": "\"Pantalla: 6.0″, 480 x 960 pixels\nProcesador: Octa Core 1.8 GHz\nOS: Android 10\nRAM: 1GB\nAlmacenamiento: 32GB\nCámara: Cuádruple, 8MP\nCámara Frontal: 8Mp\nBatería: 3000 mAh\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.39",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.39-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.39--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Blu X12 Azul",
+      "slug": "blu-x12-Azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.0″, 480 x 960 pixels\nProcesador: Octa Core 1.8 GHz\nOS: Android 10\nRAM: 1GB\nAlmacenamiento: 32GB\nCámara: Cuádruple, 8MP\nCámara Frontal: 8Mp\nBatería: 3000 mAh\"",
+      "long_description": "\"Pantalla: 6.0″, 480 x 960 pixels\nProcesador: Octa Core 1.8 GHz\nOS: Android 10\nRAM: 1GB\nAlmacenamiento: 32GB\nCámara: Cuádruple, 8MP\nCámara Frontal: 8Mp\nBatería: 3000 mAh\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.48",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.48-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.48--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Blu S91 Negro",
+      "slug": "blu-s91-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu S91 es un smartphone de 2022. Su tamaño es 168 x 76.5 x 8.9 mm. Tiene una pantalla IPS LCD de 6.8″. La resolución es de 1080 x 2460 pixels y una densidad de los píxeles de 395 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Mediatek MT6769V/CU Helio G80 y memoria 64GB 3GB RAM. Su batería es de 6000 mAh.\n\n\"",
+      "long_description": "\"Blu S91 es un smartphone de 2022. Su tamaño es 168 x 76.5 x 8.9 mm. Tiene una pantalla IPS LCD de 6.8″. La resolución es de 1080 x 2460 pixels y una densidad de los píxeles de 395 ppi . La cámara frontera singular de 8 MP. La cámara trasera triple de 13 MP. Su procesador es Mediatek MT6769V/CU Helio G80 y memoria 64GB 3GB RAM. Su batería es de 6000 mAh.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.93",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.93-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.93--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Blu G61S Dorado",
+      "slug": "blu-g61s-dorado",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G61s es un smartphone de 2022. Su tamaño es 159.5 x 76.5 x 9.8 mm y su peso es 164 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera doble de 13 MP. Su procesador es Octa-core 2.0 GHz Cortex-A75 y memoria 64GB 4GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G61s es un smartphone de 2022. Su tamaño es 159.5 x 76.5 x 9.8 mm y su peso es 164 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera doble de 13 MP. Su procesador es Octa-core 2.0 GHz Cortex-A75 y memoria 64GB 4GB RAM. Su batería es de 5000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.99",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.99-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.99--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Blu G50 Mega 2022 Negro",
+      "slug": "blu-g50-mega-2022-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Blu G50 Mega 2022 es un smartphone de 2022. Su tamaño es 156.1 x 72.5 x 9.3 mm y su peso es 188 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera doble de 12 MP. Su procesador es Quad-core 2.0 GHz Cortex-A75 y memoria 32GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "long_description": "\"Blu G50 Mega 2022 es un smartphone de 2022. Su tamaño es 156.1 x 72.5 x 9.3 mm y su peso es 188 pulgadas. Tiene ina pantalla IPS LCD de 6.5″. La resolución es de 720 x 1600 y una densidad de los píxeles de 270 ppi . La cámara frontera singular de 8 MP. La cámara trasera doble de 12 MP. Su procesador es Quad-core 2.0 GHz Cortex-A75 y memoria 32GB 3GB RAM. Su batería es de 4000 mAh. Más detalles usted va a encontrar más abajo.\n\n\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.03.104",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.104-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.03.104--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
+    },
+
+
+    {
+      "id": 63,
+      "name": "TECNO SPARK 8C KG5K Negro",
+      "slug": "tecno-spark-8c-kg5k-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 720 x 1612 pixels\nProcesador: HiOS 7.6.\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Dual, 13MP+1.8MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.6″, 720 x 1612 pixels\nProcesador: HiOS 7.6.\nRAM: 4GB\nAlmacenamiento: 128GB\nCámara: Dual, 13MP+1.8MP\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.40",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.40-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.40--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Tecno",
+          "slug": "celulares-tecno"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Tecno",
+          "slug": "tecno"
+        }
+      ]
+    },
+
+
+    {
+      "id": 64,
+      "name": "Infinix Note 11s Negro",
+      "slug": "infinix-note-11s-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.78″, 1080 x 2400 pixels 90Hz\nProcesador: MediaTek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Triple, 50MP+2MP +0,3MP\nFrontal: 8MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.78″, 1080 x 2400 pixels 90Hz\nProcesador: MediaTek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Triple, 50MP+2MP +0,3MP\nFrontal: 8MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.36",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.36-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.36--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Infinix Note 11s Violeta",
+      "slug": "infinix-note-11s-violeta",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.78″, 1080 x 2400 pixels 90Hz\nProcesador: MediaTek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Triple, 50MP+2MP +0,3MP\nFrontal: 8MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.78″, 1080 x 2400 pixels 90Hz\nProcesador: MediaTek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Triple, 50MP+2MP +0,3MP\nFrontal: 8MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.37",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.37-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.37--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Infinix Note 11s Verde",
+      "slug": "infinix-note-11s-verde",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.78″, 1080 x 2400 pixels 90Hz\nProcesador: MediaTek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Triple, 50MP+2MP +0,3MP\nFrontal: 8MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.78″, 1080 x 2400 pixels 90Hz\nProcesador: MediaTek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara: Triple, 50MP+2MP +0,3MP\nFrontal: 8MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.38",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.38-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.38--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+
+    {
+      "id": 67,
+      "name": "Infinix Note 11 Pro Azul",
+      "slug": "infinix-note-11-pro-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.95″, 1080 x 2460 pixels 120Hz\nProcesador: MediaTek Helio G96\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Triple, 64MP+13MP +2MP\nFrontal: 16MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.95″, 1080 x 2460 pixels 120Hz\nProcesador: MediaTek Helio G96\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Triple, 64MP+13MP +2MP\nFrontal: 16MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.32",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.32-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.32--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+
+    {
+      "id": 68,
+      "name": "Infinix Smart 6 Negro",
+      "slug": "infinix-smart-6-negro",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 720 x 1600 pixels 120Hz\nProcesador: Octa Core Cortex A55\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Doble, 8MP+0.8MP\nFrontal: 5MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.6″, 720 x 1600 pixels 120Hz\nProcesador: Octa Core Cortex A55\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Doble, 8MP+0.8MP\nFrontal: 5MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.33",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.33-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.33--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Infinix Smart 6 Azul",
+      "slug": "infinix-smart-6-azul",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 720 x 1600 pixels 120Hz\nProcesador: Octa Core Cortex A55\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Doble, 8MP+0.8MP\nFrontal: 5MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.6″, 720 x 1600 pixels 120Hz\nProcesador: Octa Core Cortex A55\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Doble, 8MP+0.8MP\nFrontal: 5MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.35",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.35-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.35--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Infinix Smart 6 Celeste",
+      "slug": "infinix-smart-6-celeste",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 720 x 1600 pixels 120Hz\nProcesador: Octa Core Cortex A55\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Doble, 8MP+0.8MP\nFrontal: 5MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla: 6.6″, 720 x 1600 pixels 120Hz\nProcesador: Octa Core Cortex A55\nRAM: 8GB\nAlmacenamiento: 128GB\nCámara: Doble, 8MP+0.8MP\nFrontal: 5MP gran angular\nBatería: 5000 mAh\nOS: Android 11\"",
+      "stock": 93,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 100,
+      "sku": "10.20.34",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.34-.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.20.34--1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+    {
+      "id": 71,
+      "name": "Samsung A14 Light Green",
+      "slug": "samsung-a14-light-green",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.02.113",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.113.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.113-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Samsung A14 Silver",
+      "slug": "samsung-a14-silver",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.02.114",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.114.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.114-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+
+    {
+      "id": 73,
+      "name": "Samsung A14 Black",
+      "slug": "samsung-a14-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.6″, 1920 x 1080 pixels\nProcesador: Octa-core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Triple, 50MP+2MP+2MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.02.115",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.115.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.115-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Samsung S23 Ultra Black",
+      "slug": "samsung-s23-ultra-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.8″, 3080 x 1440 pixels\nProcesador: Snapdragon 8 Gen 2\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: no\nCámara: Triple, 200MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.8″, 3080 x 1440 pixels\nProcesador: Snapdragon 8 Gen 2\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: no\nCámara: Triple, 200MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.02.116",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.116.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.116-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "XIAOMI REDMI NOTE 12 ONYX GRAY",
+      "slug": "xiaomi-redmi-note-12-onyx-gray",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.67″, 2400 x 1080 pixels\nProcesador: Snapdragon 685\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Triple, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Octa-Core\"",
+      "long_description": "\"Pantalla: 6.67″, 2400 x 1080 pixels\nProcesador: Snapdragon 685\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Triple, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Octa-Core\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.19.132",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.132.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.132-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "INFINIX HOT 30i MIRROR BLACK",
+      "slug": "infinix-hot-30i-mirror-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+      "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.48",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.48.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.48-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "INFINIX HOT 30i GLACIER BLUE",
+      "slug": "infinix-hot-30i-glacier-blue",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+      "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.49",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.49.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.49-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "INFINIX HOT 30i DIAMOND WHITE",
+      "slug": "infinix-hot-30i-diamond-white",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+      "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.50",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.50.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.50-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "XIAOMI 12 5G Blue",
+      "slug": "xiaomi-12-5g-blue",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.28″, 1920 x 1080 pixels\nProcesador: Snapdragon 8 Gen1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: MIUI 13\"",
+      "long_description": "\"Pantalla: 6.28″, 1920 x 1080 pixels\nProcesador: Snapdragon 8 Gen1\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: MIUI 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.19.133",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.133.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.19.133-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Samsung A24 Black",
+      "slug": "samsung-a24-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.02.117",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.117.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.117-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Samsung A24 Silver",
+      "slug": "samsung-a24-silver",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Octa-Core\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 50MP\nCámara Frontal: 13MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.02.118",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.118.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.02.118-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Samsung",
+          "slug": "celulares-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "INFINIX NOTE 30 PRO MAGIC BLACK",
+      "slug": "infinix-note-30-pro-magic-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.51",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.51.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.51-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "INFINIX NOTE 30 PRO VARIABLE GOLD",
+      "slug": "infinix-note-30-pro-variable-gold",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.52",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.52.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.52-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "INFINIX HOT 30 PLAY MIRAGE BLACK",
+      "slug": "infinix-hot-30-play-mirage-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.53",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.53.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.53-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "INFINIX HOT 30 PLAY BLADE WHITE",
+      "slug": "infinix-hot-30-play-blade-white",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.54",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.54.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.54-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "INFINIX HOT 30 PLAY BORA PURPLE",
+      "slug": "infinix-hot-30-play-bora-purple",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: hasta 1TB\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.55",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.55.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.55-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "INFINIX NOTE 30 OBSIDIAN BLACK",
+      "slug": "infinix-note-30-obsidian-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.56",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.56.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.56-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "INFINIX NOTE 30 INTERSTELLAR BLUE",
+      "slug": "infinix-note-30-interstellar-blue",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.57",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.57.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/demo-market1/products/10.43.57-1.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Infinix",
+          "slug": "infinix"
+        }
+      ]
+    }
+
+  ],
+
+  "productCategories": [
+
+    {
+      "name": "Celulares",
+      "slug": "celulares"
+    },
+    {
+      "name": "Accesorios",
+      "slug": "accesorios"
+    }
+  ]
+
+}
